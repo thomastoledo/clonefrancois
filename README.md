@@ -1,5 +1,5 @@
 
-# Deep Clone
+# Clone Francois
 
 A lightweight utility function for deeply cloning JavaScript objects, arrays, and other complex data structures. Supports circular references and special cases like `Date`, `Map`, and `Set`.
 
