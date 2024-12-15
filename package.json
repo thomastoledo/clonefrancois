@@ -1,0 +1,25 @@
+{
+  "name": "clonefrancois",
+  "version": "0.0.2",
+  "description": "Clone François aims to clone anything",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "keywords": [
+    "js",
+    "clone",
+    "deepclone",
+    "utility",
+    "utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomastoledo/CloneFrancois.git"
+  },
+  "author": "Thomas TOLEDO",
+  "license": "MIT"
+}
