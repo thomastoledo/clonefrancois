@@ -1,6 +1,6 @@
 {
   "name": "clonefrancois",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Clone François aims to clone anything",
   "main": "dist/index.js",
   "scripts": {
